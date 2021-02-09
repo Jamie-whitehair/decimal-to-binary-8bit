@@ -1,10 +1,8 @@
-import math
 loop0 = True
 while loop0 is True:
-    dec = int(input("type the number you want to convert to Binary. \n"))
+    dec = int(input("Type the number you want to convert to Binary: \n"))
     if dec > 255:
-        print("value cant exceed 255")
-
+        print("Value cannot exceed 255.")
     else:
         loop0 = False
 # loop0 is for numbers input
