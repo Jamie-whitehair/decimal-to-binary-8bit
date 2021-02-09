@@ -1,2 +1,2 @@
-# decimal-to-binary-8bit
-Simply converts all numbers from 0-255.
+# What does it do?
+Simply converts all numbers from 0-255, CANNOT CONVERT NEGATIVE NUMBERS, .
