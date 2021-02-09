@@ -1,9 +1,11 @@
 loop0 = True
 while loop0 is True:
     dec = int(input("Type the number you want to convert to Binary: \n"))
+    print("\n")
     if dec > 255:
         print("Value cannot exceed 255.")
     else:
+        print("the binary version of this number is:")
         loop0 = False
 # loop0 is for numbers input
 # loop1 is for the binary loop
